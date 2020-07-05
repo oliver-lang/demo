@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-I hope this is master okay
+This is bound to cause very-bad trouble!
